@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Vianneyk/Burger/issues"
   },
-  "homepage": "https://github.com/Vianneyk/Burger#readme"
+  "homepage": "https://github.com/Vianneyk/Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
